@@ -3,8 +3,7 @@ from selenium.webdriver.common.keys import Keys
 import time
 
 # Caminho para o webdriver na máquina
-#É PRECISO BAIXAR O SELENIUM WEB DRIVER PARA O GOOGLE CHROME
-PATH = 'webdriverchrome\chromedriver.exe'
+PATH = 'webdriverchrome\chromedriver'
 
 # Objeto de teste - aplicação web
 URL = 'http://sampleapp.tricentis.com/101/app.php'
