@@ -3,6 +3,7 @@ from selenium.webdriver.common.keys import Keys
 import time
 
 # Caminho para o webdriver na máquina
+#É PRECISO BAIXAR O SELENIUM WEB DRIVER PARA O GOOGLE CHROME
 PATH = 'webdriverchrome\chromedriver.exe'
 
 # Objeto de teste - aplicação web
