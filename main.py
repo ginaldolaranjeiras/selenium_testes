@@ -3,7 +3,7 @@ from selenium.webdriver.common.keys import Keys
 import time
 
 # Caminho para o webdriver na máquina
-PATH = 'webdriverchrome\chromedriver'
+PATH = 'chromedriver.exe'
 
 # Objeto de teste - aplicação web
 URL = 'http://sampleapp.tricentis.com/101/app.php'
