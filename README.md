@@ -18,7 +18,7 @@ Para repetir o processo você precisa do WebDriver Selenium para Chrome https://
 
 Lembre do endereço onde fez a instalação do chromedriver.exe
 
-No arquivo main.py reescreva a valor da variável URL com o caminho do executável chromedriver.exe na sua máquina. 
+No arquivo main.py reescreva a valor da variável PATH com o caminho do executável chromedriver.exe na sua máquina. 
 
 Você também vai precisar instalar o Selenium para Python pelo instalador de pacotes da linguam 'pip'.
 
