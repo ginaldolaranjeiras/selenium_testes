@@ -4,7 +4,7 @@ Instruções:
 
 O código foi escrito em Python
 
-O script está contido de maneira procedural em 'main.py'.
+O script foi escrito de maneira procedural em 'main.py'.
 
 Baixe o Script
 
@@ -17,6 +17,8 @@ O teste foi realizado em um ambiente windows com o navegador Google Chrome
 Para repetir o processo você precisa do WebDriver Selenium para Chrome https://sites.google.com/a/chromium.org/chromedriver/
 
 Lembre do endereço onde fez a instalação do chromedriver.exe
+
+Crie um diretório para 'main.py' e abra na IDE de sua preferência VSCode, PyCharm...
 
 No arquivo main.py reescreva a valor da variável PATH com o caminho do executável chromedriver.exe na sua máquina. 
 
