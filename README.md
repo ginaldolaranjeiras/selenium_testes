@@ -39,7 +39,7 @@ No terminal, no endereço do seu ambiente Python (global ou virtual), digite: 'p
 
 Agora na pasta onde você salvou os arquivos execute o script: 'python main.py'.
 
-Talvez o seu sistema passa permição para executar o script.
+Talvez o seu sistema passa permissão para executar o script.
 
 Agora o Chrome irá abrir e os testes serão executados automaticamente. 
 
