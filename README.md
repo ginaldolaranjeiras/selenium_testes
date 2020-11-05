@@ -2,7 +2,7 @@
 
 ## O objeto de teste é a aplicação web: Tricentis Simple App http://sampleapp.tricentis.com/101/app.php
 
-## O teste foi realizado em um ambiente windows com o navegador Google Chrome
+## O teste foi realizado em um ambiente windows com o navegador Google Chrome. Baixe o Chorome
 
 
 ### Instruções:
@@ -21,7 +21,7 @@ Você precisará do WebDriver Selenium para Chrome https://sites.google.com/a/ch
 
 Recomendo baixar na mesma pasta que está o 'main.py'
 
-Você também vai precisar instalar o Selenium para Python pelo instalador de pacotes da linguam 'pip'.
+Você também vai precisar instalar o Selenium para Python pelo instalador de pacotes da linguagem 'pip'.
 
 No terminal, no endereço do seu ambiente Python (global ou virtual) digite: 'pip install selenium'
 
