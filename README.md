@@ -17,20 +17,28 @@ Faça o download interpretador Python na sua máquina https://www.python.org/dow
 
 O script foi escrito de maneira procedural no arquivo 'main.py'.
 
-Crie um diretório na sua máquina para 'main.py'.
+Crie um diretório na sua máquina onde você vai salvar o 'main.py'.
 
-Baixe o Script.
+Baixe o script 'main.py.
 
 De você baixar toda a pasta em zip, vai precisar descompactá-la primeiro.
 
-Você precisará do Selenium WebDriver para Chrome https://sites.google.com/a/chromium.org/chromedriver/ .
+Você precisará do Selenium WebDriver para Chrome. 
 
-Recomendo baixar na mesma pasta que você colocou o arquivo'main.py'.
+Baixe o WebDriver aqui: https://sites.google.com/a/chromium.org/chromedriver/ .
 
-Você só vai precisar desses dois arquivos no diretório: 1 - main.py e 2 - chromedriver.exe.
+Recomendo baixar na mesma pasta que você colocou o arquivo 'main.py'.
+
+Você só vai precisar desses dois arquivos no diretório: 1 - main.py ✔ e 2 - chromedriver.exe ✔.
 
 Você também vai precisar instalar o Selenium para Python pelo instalador de pacotes da linguagem 'pip'.
 
-No terminal, no endereço do seu ambiente Python (global ou virtual) digite: 'pip install selenium'
+No terminal, no endereço do seu ambiente Python (global ou virtual), digite: 'pip install selenium' .
 
-Agora execute o script: 'python main.py'
+Agora na pasta onde você salvou os arquivos execute o script: 'python main.py'.
+
+Talvez o seu sistema passa permição para executar o script.
+
+Agora o Chrome irá abrir e os testes serão executados automaticamente. 
+
+
