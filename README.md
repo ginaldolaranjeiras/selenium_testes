@@ -27,7 +27,9 @@ Você precisará do Selenium WebDriver para Chrome.
 
 Baixe o WebDriver aqui: https://sites.google.com/a/chromium.org/chromedriver/ .
 
-Recomendo baixar na mesma pasta que você colocou o arquivo 'main.py'.
+Extraia os arquivos.
+
+Recomendo salvar o executável 'chromedriver.exe' na mesma pasta que você colocou o arquivo 'main.py'.
 
 Você só vai precisar desses dois arquivos no diretório: 1 - main.py ✔ e 2 - chromedriver.exe ✔.
 
