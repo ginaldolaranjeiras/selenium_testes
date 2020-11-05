@@ -2,10 +2,12 @@
 
 ## O objeto de teste é a aplicação web: Tricentis Simple App http://sampleapp.tricentis.com/101/app.php
 
-## O teste foi realizado em um ambiente windows com o navegador Google Chrome. Baixe o Chorome
+## O teste foi realizado em um ambiente windows com o navegador Google Chrome. 
 
 
 ### Instruções:
+
+Baixe o Chrome primeiro.
 
 O código foi escrito em Python
 
