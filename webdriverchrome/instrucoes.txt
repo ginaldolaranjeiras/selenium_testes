@@ -1,1 +1,0 @@
-Salve o executável chromedriver.exe que você baixar em https://sites.google.com/a/chromium.org/chromedriver/ na mesma pasta desse arquivo. Ou referencie o endereço na vaiável PATH em main.py .
