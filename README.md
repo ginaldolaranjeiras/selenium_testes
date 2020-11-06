@@ -40,3 +40,6 @@
 * Agora o Chrome irá abrir e os testes serão executados automaticamente. 
 
 
+Se já tem tudo instalado tente entrar na pasta **cd** "<**caminho para a pasta>/selenium_testes-main**"
+
+E depois rodar "**behave**" (sem aspas)
