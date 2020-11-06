@@ -21,7 +21,7 @@
 
 * Você vai precisar descompactar a pasta
 
-* Você precisará do Selenium WebDriver para Chrome. 
+* Você precisará do WebDriver para Chrome. 
 
 * Baixe o WebDriver aqui: https://sites.google.com/a/chromium.org/chromedriver/ .
 
