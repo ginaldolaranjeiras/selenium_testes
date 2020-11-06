@@ -9,13 +9,13 @@
 
 ### Instruções:
 
-* __Baixe o Chrome primeiro__.
+* **Baixe o Chrome primeiro.
 
 * O código foi escrito em Python.
 
 * Você precisa de uma instalação do python para rodar o Script. 
 
-* __Faça o download interpretador Python na sua máquina https://www.python.org/downloads/ __.
+* **Faça o download interpretador Python na sua máquina https://www.python.org/downloads/ .
 
 * Baixe este o projeto.
 
@@ -23,11 +23,11 @@
 
 * Você precisará do WebDriver para Chrome. 
 
-* __Baixe o WebDriver aqui: https://sites.google.com/a/chromium.org/chromedriver/ __.
+* **Baixe o WebDriver aqui: https://sites.google.com/a/chromium.org/chromedriver/ .
 
 * Extraia os arquivos.
 
-* __Salve o executável 'chromedriver.exe' na mwebdriverchrome__.
+* **Salve o executável 'chromedriver.exe' na pasta /webdriverchrome dentro do projeto que você baixou e descompactou.
 
 * Você também vai precisar instalar o Selenium para Python pelo instalador de pacotes da linguagem 'pip'.
 
