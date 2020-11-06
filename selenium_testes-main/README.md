@@ -1,4 +1,4 @@
-# Teste Selenium
+# Teste Selenium usando BDD com Behave e Python
 
 ## O objeto de teste é a aplicação web: Tricentis Simple App http://sampleapp.tricentis.com/101/app.php
 
@@ -29,11 +29,11 @@
 
 * **Salve o executável 'chromedriver.exe' na pasta do projeto que você baixou e descompactou, a mesma pasta que está 'main.py'**.
 
-* Você também vai precisar instalar o Selenium para Python pelo instalador de pacotes da linguagem 'pip'.
+* Você também vai precisar instalar o Selenium e o Behave para Python pelo instalador de pacotes da linguagem 'pip'.
 
-* No terminal, no endereço do seu ambiente Python (global ou virtual), digite: '__pip install selenium__'(sem as aspas) .
+* No terminal, no endereço do seu ambiente Python (global ou virtual), digite: '__pip install behave selenium__'(sem as aspas) .
 
-* Agora na pasta do projeto que você extraiu execute: '__python main.py__' (sem as aspas).
+* Agora na pasta do projeto que você extraiu execute o comando: '__behave__' (sem as aspas).
 
 * Talvez o seu sistema passa permissão para executar o script.
 
