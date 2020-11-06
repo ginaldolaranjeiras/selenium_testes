@@ -1,7 +1,7 @@
 from models.tricentis import PageTest
 
 # Webdriver route
-PATH = r'selenium_testes\webdriverchrome\chromedriver.exe'
+PATH = r'chromedriver.exe'
 
 # Test object
 URL = r'http://sampleapp.tricentis.com/101/app.php'
