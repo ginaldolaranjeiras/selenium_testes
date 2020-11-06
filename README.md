@@ -27,7 +27,7 @@
 
 * Extraia os arquivos.
 
-* **Salve o executável 'chromedriver.exe' na pasta /webdriverchrome dentro do projeto que você baixou e descompactou**.
+* **Salve o executável 'chromedriver.exe' na pasta do projeto que você baixou e descompactou, a mesma pasta que está 'main.py'**.
 
 * Você também vai precisar instalar o Selenium para Python pelo instalador de pacotes da linguagem 'pip'.
 
