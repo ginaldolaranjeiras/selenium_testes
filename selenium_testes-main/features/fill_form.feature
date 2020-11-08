@@ -6,7 +6,6 @@ Cenário: Estou na página de formulário de seguro
 
     Dado que estou na pagina de formulário
 
-
     Quando eu estou na aba preecha os dados do veículo
     E eu preencho os campos do veículo com os valores
         | campos              | valores       |
@@ -29,7 +28,6 @@ Cenário: Estou na página de formulário de seguro
     Então eu vou para a dados do seguro
 
 
-    Dado que estou na pagina de formulário
     Quando eu estou na aba preecha os dados do seguro
     E eu preencho os campos do seguro com os valores
         | campos      | valores          |
