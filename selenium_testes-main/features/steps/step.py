@@ -145,6 +145,7 @@ def step_impl(context):
 @when('clico no botão enviar cotação')
 def step_impl(context):
     context.tricentis_test.button_click_by_id("sendemail")
+    context.tricentis_test.delay_timer(10)
 
 @then('eu recebo a mensagem de sucesso')
 def step_impl(context):
