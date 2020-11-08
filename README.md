@@ -35,7 +35,7 @@
 
 * Agora na pasta do projeto que você extraiu execute o comando: '__behave__' (sem as aspas).
 
-* Talvez o seu sistema passa permissão para executar o script.
+* Talvez o seu sistema peça permissão para executar o script.
 
 * Agora o Chrome irá abrir e os testes serão executados automaticamente. 
 
