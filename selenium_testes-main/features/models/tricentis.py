@@ -7,7 +7,6 @@ class PageTest:
     def __init__(self, url, driver_path):
         self.url = url
         self.driver_path = driver_path
-        
 
     def open_browser(self):
         self.driver = webdriver.Chrome(self.driver_path)
