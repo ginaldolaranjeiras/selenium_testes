@@ -127,7 +127,6 @@ def step_impl(context):
 def step_impl(context):
     assert context.failed is False
 
-
 # Fill send code
 @when('eu estou na aba para eviar cotação')
 def step_impl(context):
